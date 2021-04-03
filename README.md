@@ -1,3 +1,7 @@
+<p align="justify">
+2011-16 Studium der Rechtswissenschaften in Göttingen und Galway; 2017-19 Rechtsreferendariat mit Stationen in einer BGH-Kanzlei und am Bundesverfassungsgericht; Seit 2019: Promotion an der Uni Göttingen
+</p>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/maxnoll/maxnoll.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
