@@ -10,10 +10,8 @@ Völkerrechtliche Jurisdiktion, insbesondere hinsichtich des Internets
 2011-16 Studium der Rechtswissenschaften in Göttingen und Galway  
 
 ## Kontakt
-@maxmnoll
-
-max.noll[at]jura.uni-goettingen.de
-
+@maxmnoll  
+max.noll[at]jura.uni-goettingen.de  
 Institut für Völker- und Europarecht  
 Platz der Göttinger Sieben 5  
 37073 Göttingen  
