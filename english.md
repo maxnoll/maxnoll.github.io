@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Test
+layout: default
 permalink: /english.html
 ---
 ## Research Interests  
