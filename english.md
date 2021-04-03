@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /english.html
+lang: de
 ---
 ## Research Interests  
 Jurisdiction of States, especially in the internet
