@@ -1,5 +1,3 @@
-<title>Max Noll, Jura, Rechtswissenschaften, Völkerrecht, Göttingen</title>
-
 ## Forschungsinteressen
 Völkerrechtliche Jurisdiktion, insbesondere hinsichtlich des Internets
 
