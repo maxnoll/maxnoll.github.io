@@ -12,4 +12,4 @@ Jurisdiction of States, especially in the internet
 ## CV
 [Since 2019 PhD at Goettingen University at Prof. Dr. Andreas Paulus](https://www.uni-goettingen.de/en/428949.html)  
 2017-19 Legal Clership <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
-2011-16 Studies of Law in Goettingen and Galway
+2011-16 First German State Exam in Law, Goettingen and Galway
