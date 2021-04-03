@@ -1,12 +1,16 @@
-<p align="justify">
-2011-16 Studium der Rechtswissenschaften in Göttingen und Galway; 2017-19 Rechtsreferendariat mit Stationen in einer BGH-Kanzlei und am Bundesverfassungsgericht; Seit 2019: Promotion an der Uni Göttingen
-</p>
 
-## Welcome to GitHub Pages
+2011-16 Studium der Rechtswissenschaften in Göttingen und Galway
 
-You can use the [editor on GitHub](https://github.com/maxnoll/maxnoll.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+2017-19 Rechtsreferendariat mit Stationen in einer BGH-Kanzlei und am Bundesverfassungsgericht
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Seit 2019 Promotion an der Uni Göttingen
+
+# Forschungsinteressen
+
+
+# Vorträge
+
+[3. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://twitter.com/AjVGermany/status/1376503351421067269)
 
 ### Markdown
 
