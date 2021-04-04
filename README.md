@@ -1,5 +1,5 @@
 ---
-name: Testi Testmann
+name: Testi_Testmann
 ---
 
 ## Ausbildung
