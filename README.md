@@ -1,4 +1,4 @@
-## Max Noll
+## Ausbildung
 [Seit 2019 Promotion an der Uni Göttingen bei Prof. Dr. Andreas Paulus](https://www.uni-goettingen.de/de/428949.html)  
 2017-19 Rechtsreferendariat mit Stationen in einer BGH-Kanzlei und am Bundesverfassungsgericht  
 2011-16 Studium der Rechtswissenschaften in Göttingen und Galway  
