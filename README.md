@@ -4,7 +4,7 @@
 2011-16 Studium der Rechtswissenschaften in Göttingen und Galway  
 
 ## Forschungsinteressen
-Völkerrechtliche Kompetenzabgrenzung der Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
+Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
 
 ## Vorträge
 [4. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://twitter.com/AjVGermany/status/1376503351421067269)
