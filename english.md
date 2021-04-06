@@ -9,7 +9,7 @@ lang: en-US
 2011-16 German First State Exam in Law, Goettingen and Galway
 
 ## Research Interests  
-Jurisdiction of States, especially in the internet
+Jurisdiction of States, especially on the internet
 
 ## Talks
 [4. September 2021 AjV-DGIR Conference 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://twitter.com/AjVGermany/status/1376503351421067269)
