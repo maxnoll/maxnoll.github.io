@@ -4,6 +4,7 @@ permalink: /english.html
 title: Max Noll - PhD student in public international law
 lang: en-US
 ---
+{% seo title=false %}
 ## Education
 [Since 2019 PhD at Goettingen University with Prof. Dr. Andreas Paulus](https://www.uni-goettingen.de/en/428949.html)  
 2017-19 Legal Clerkship <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
