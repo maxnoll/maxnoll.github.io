@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /english.html
+title: Max Noll - PhD student in public international law
 lang: en-US
 ---
 ## Education
