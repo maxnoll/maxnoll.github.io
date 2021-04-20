@@ -9,4 +9,4 @@
 Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
 
 ## Vorträge
-[4. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://twitter.com/AjVGermany/status/1376503351421067269)
+[4. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme.pdf)
