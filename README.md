@@ -2,10 +2,10 @@
 
 ## Ausbildung
 [Seit 2019 Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://www.uni-goettingen.de/de/428949.html)  
-2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfas&shy;sungs&shy;gericht  
-2011-16 Studium der Rechts&shy;wissen&shy;schaften in Göt&shy;tingen und Galway  
+2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
+2011-16 Studium der Rechts&shy;wissen&shy;schaften in Göttingen und Galway  
   
-Studium und Promotion (ab Oktober 2021) gefördert von der Studien&shy;stif&shy;tung des deut&shy;schen Volkes
+Studium und Promotion (ab Oktober 2021) gefördert von der Studien&shy;stiftung des deutschen Volkes
 
 ## Forschungsinteressen
 Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
