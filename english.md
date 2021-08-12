@@ -8,7 +8,7 @@ lang: en-US
 ## Education
 [Since 2019 PhD at University of Göttingen with Prof. Dr. Andreas Paulus](https://uni-goettingen.de/en/428947.html)  
 2017-19 Legal Clerkship <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
-2011-16 German First State Exam in Law, Goettingen and Galway  
+2011-16 German First State Exam in Law, Göttingen and Galway  
   
 (From October 2021) PhD Fellow at the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/leitbild/)  
 
