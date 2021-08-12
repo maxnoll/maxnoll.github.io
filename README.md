@@ -1,7 +1,7 @@
 {% seo title=false %}
 
 ## Ausbildung
-[Seit 2019 Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://www.uni-goettingen.de/de/428949.html)  
+[Seit 2019 Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://uni-goettingen.de/de/428947.html)  
 2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
 2011-16 Studium der Rechts&shy;wissen&shy;schaften in Göttingen und Galway  
   
