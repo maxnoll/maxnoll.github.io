@@ -16,4 +16,4 @@ lang: en-US
 Jurisdiction of States, especially on the internet
 
 ## Talks
-[3. September 2021 AjV-DGIR Conference 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme.pdf)
+[3. September 2021 AjV-DGIR Conference 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
