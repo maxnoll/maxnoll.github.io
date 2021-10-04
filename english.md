@@ -15,5 +15,8 @@ lang: en-US
 ## Research Interests  
 Jurisdiction of States, especially on the internet
 
+## Publications
+[Anfängerklausur: Caroline. Zugleich ein Beitrag zur mittelbaren Drittwirkung der Grundrechte in der Fallbearbeitung, Zeitschrift für das Juristische Studium (ZJS), 2021, 624-631.](http://www.zjs-online.com/dat/artikel/2021_5_1551.pdf)
+
 ## Talks
 [3. September 2021 AjV-DGIR Conference 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
