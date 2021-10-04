@@ -10,5 +10,8 @@ Studium und Promotion (ab Oktober 2021) gefördert von der Studien&shy;stiftung 
 ## Forschungsinteressen
 Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
 
+## Publikationen
+[Anfängerklausur: Caroline. Zugleich ein Beitrag zur mittelbaren Drittwirkung der Grundrechte in der Fallbearbeitung, Zeitschrift für das Juristische Studium (ZJS), 2021, 624-631.](http://www.zjs-online.com/dat/artikel/2021_5_1551.pdf)
+
 ## Vorträge
 [3. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
