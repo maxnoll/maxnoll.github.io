@@ -10,7 +10,7 @@ lang: en-US
 2017-19 Legal Clerkship <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
 2011-16 German First State Exam in Law, Göttingen and Galway  
   
-(From October 2021) PhD Fellow at the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/leitbild/)  
+PhD Fellow at the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/leitbild/)  
 
 ## Research Interests  
 Jurisdiction of States, especially on the internet
