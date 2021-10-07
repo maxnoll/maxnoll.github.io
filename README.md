@@ -5,7 +5,7 @@
 2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
 2011-16 Studium der Rechts&shy;wissen&shy;schaften in Göttingen und Galway  
   
-Studium und Promotion gefördert von der Studien&shy;stiftung des deutschen Volkes
+Studium und Promotion gefördert von der [Studien&shy;stiftung des deutschen Volkes](https://www.studienstiftung.de/leitbild/)
 
 ## Forschungsinteressen
 Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
