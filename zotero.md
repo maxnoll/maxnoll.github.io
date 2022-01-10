@@ -11,9 +11,3 @@ I publish the Zotero Styles I create for my publications. Obviously, all are in 
 Books, Articles and Book Chapters should work properly.
 
 <a href="hjil_noll_draft.csl" download>Download File</a>
-
-[Download File](https://uni-goettingen.de/en/428947.html)  
-2017-19 Legal Clerkship <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
-2011-16 German First State Exam in Law, Göttingen and Galway  
-  
-PhD Fellow at the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/leitbild/)  
