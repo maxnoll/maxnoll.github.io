@@ -9,5 +9,4 @@ lang: en-US
 I publish the Zotero Styles I create for my publications. Obviously, all are in some kind of draft status and do not cover all scenarios. They still might be useful. Obviously, you use these styles on your own risk and I do not offer any support.
 ### Heidelberg Journal of International Law/Zeitschrift für ausländisches öffentliches Recht und Völkerrecht (HJIL/ZaöRV)
 Books, Articles and Book Chapters should work properly.
-
 <a href="hjil_noll_draft.csl" download>Download File</a>
