@@ -9,6 +9,7 @@ Studium und Promotion gefördert von der [Studien&shy;stiftung des deutschen Vol
 
 ## Forschungsinteressen
 Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets  
+
 Datenschutzrecht, insbesondere dessen räumlicher Anwendungsbereich
 
 ## Publikationen
