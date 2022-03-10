@@ -13,7 +13,8 @@ lang: en-US
 PhD Fellow at the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/leitbild/)  
 
 ## Research Interests  
-Jurisdiction of States, especially on the internet
+Jurisdiction of States, especially on the internet  
+Data Protection Law, especially its territorial scope
 
 ## Publications
 [Anfängerklausur: Caroline. Zugleich ein Beitrag zur mittelbaren Drittwirkung der Grundrechte in der Fallbearbeitung, Zeitschrift für das Juristische Studium (ZJS), 2021, 624-631.](http://www.zjs-online.com/dat/artikel/2021_5_1551.pdf)
