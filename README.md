@@ -9,6 +9,7 @@ Studium und Promotion gefördert von der [Studien&shy;stiftung des deutschen Vol
 
 ## Forschungsinteressen
 Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
+Datenschutzrecht, insbesondere dessen räumlicher Anwendungsbereich
 
 ## Publikationen
 [Anfängerklausur: Caroline. Zugleich ein Beitrag zur mittelbaren Drittwirkung der Grundrechte in der Fallbearbeitung, Zeitschrift für das Juristische Studium (ZJS), 2021, 624-631.](http://www.zjs-online.com/dat/artikel/2021_5_1551.pdf)
