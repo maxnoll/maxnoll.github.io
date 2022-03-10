@@ -8,7 +8,7 @@
 Studium und Promotion gefördert von der [Studien&shy;stiftung des deutschen Volkes](https://www.studienstiftung.de/leitbild/)
 
 ## Forschungsinteressen
-Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets
+Völkerrechtliche Kompetenzabgrenzung zwischen den Staaten (Jurisdiktion), insbesondere hinsichtlich des Internets  
 Datenschutzrecht, insbesondere dessen räumlicher Anwendungsbereich
 
 ## Publikationen
