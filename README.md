@@ -2,7 +2,7 @@
 
 ## Ausbildung
 [Seit 2019 Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://uni-goettingen.de/de/428947.html)  
-:07/2022 Teilnahme am Sommerkurs in Völkerrecht der Haager Akademie für Internationales Recht (Directed Studies)  
+: 07/2022 Teilnahme am Sommerkurs in Völkerrecht der Haager Akademie für Internationales Recht (Directed Studies)  
 08/2022 Teilnahme am Sommerkurs in Internationalem Privatrecht der Haager Akademie für Internationales Recht  
 
 2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
