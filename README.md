@@ -20,6 +20,6 @@ Datenschutzrecht, insbesondere dessen räumlicher Anwendungsbereich
 [Anfänger&shy;klausur: Caroline. Zu&shy;gleich ein Bei&shy;trag zur mit&shy;tel&shy;baren Dritt&shy;wirk&shy;ung der Grund&shy;rech&shy;te in der Fall&shy;bear&shy;beit&shy;ung, Zeit&shy;schrift für das Jurist&shy;ische Studium (ZJS), 2021 (14), 624-631 (Open Access)](http://www.zjs-online.com/dat/artikel/2021_5_1551.pdf)
 
 ## Vorträge
-11. May 2023 Guest Forum of the MPI Luxembourg for Procedural Law: Methods of Interpretation of Customary International Law  
+11 May 2023 Guest Forum of the MPI Luxembourg for Procedural Law: Methods of Interpretation of Customary International Law  
 
-[3. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
+[3 September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
