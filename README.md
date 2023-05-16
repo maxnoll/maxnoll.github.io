@@ -1,7 +1,7 @@
 {% seo title=false %}
 
 ## Ausbildung
-Seit 2019 [Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://uni-goettingen.de/de/428947.html) [07-08/2022 Teilnahme an der [Hague Academy of International Law](https://www.hagueacademy.nl) (Summer Courses in Public and Private International Law); 05-06/2023 Visiting Scholar at the [MPI Luxembourg for Procedural Law](https://www.mpi.lu/home/)]  
+Seit 2019 [Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://uni-goettingen.de/de/428947.html) [07-08/2022 Teilnahme an der [Hague Academy of International Law](https://www.hagueacademy.nl) (Summer Courses in Public and Private International Law); 05-06/2023 Visiting Scholar am [MPI Luxembourg for Procedural Law](https://www.mpi.lu/home/)]  
 
 2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
 
