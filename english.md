@@ -6,7 +6,7 @@ lang: en-US
 ---
 {% seo title=false %}
 ## Education
-[Since 2019 PhD at University of Göttingen with Prof. Dr. Andreas Paulus](https://uni-goettingen.de/en/428947.html) [07-08/2022 Participation in the Summer Courses (Public and Private International Law) of the Hague Academy of International Law; 05-06/2023 Visting Scholar at the MPI Luxembourg for Procedural Law]  
+[Since 2019 PhD at University of Göttingen with Prof. Dr. Andreas Paulus](https://uni-goettingen.de/en/428947.html) [07-08/2022 Participation in the Summer Courses (Public and Private International Law) of the [Hague Academy of International Law](https://www.hagueacademy.nl/); 05-06/2023 Visting Scholar at the [MPI Luxembourg for Procedural Law](https://www.mpi.lu/home/)]  
 2017-19 Legal Clerkship <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
 2011-16 German First State Exam in Law, Göttingen and Galway  
   
