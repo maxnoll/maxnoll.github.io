@@ -2,7 +2,9 @@
 
 ## Ausbildung
 Seit 2019 [Promotion an der Georg-August-Universität Göttingen bei Prof. Dr. Andreas Paulus](https://uni-goettingen.de/de/428947.html) [07-08/2022 Teilnahme an der [Hague Academy of International Law](https://www.hagueacademy.nl) (Summer Courses in Public and Private International Law); 05-06/2023 Visiting Scholar at the [MPI Luxembourg for Procedural Law](https://www.mpi.lu/home/)]  
+
 2017-19 Rechtsreferendariat mit Stationen in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
+
 2011-16 Studium der Rechts&shy;wissen&shy;schaften in Göttingen und Galway  
   
 Studium und Promotion gefördert von der [Studien&shy;stiftung des deutschen Volkes](https://www.studienstiftung.de/leitbild/)
@@ -19,4 +21,5 @@ Datenschutzrecht, insbesondere dessen räumlicher Anwendungsbereich
 
 ## Vorträge
 11. May 2023 Guest Forum of the MPI Luxembourg for Procedural Law: Methods of Interpretation of Customary International Law  
+
 [3. September 2021 AjV-DGIR Tagung 2021 (Bonn): The Obsolete Public-Private Distinction and Jurisdiction in International Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
