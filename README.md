@@ -22,4 +22,4 @@ Daten&shy;schutz&shy;recht, ins&shy;beson&shy;dere des&shy;sen räum&shy;licher 
 ## Vorträge
 11 Mai 2023 MPI Luxem&shy;bourg for Pro&shy;cedu&shy;ral Law Guest Fo&shy;rum: Methods of Inter&shy;pre&shy;tation of Cust&shy;omary Inter&shy;natio&shy;nal Law  
 
-[3 September 2021 AjV-&shy;DGIR Tag&shy;ung 2021 (Bonn): The Obso&shy;lete Public-&shy;Private Dist&shy;inct&shy;ion and Juris&shy;dict&shy;ion in Inter&shy;natio&shy;nal Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
+[3 September 2021 AjV-DGIR Tag&shy;ung 2021 (Bonn): The Obso&shy;lete Public-Private Dist&shy;inct&shy;ion and Juris&shy;dict&shy;ion in Inter&shy;natio&shy;nal Law](https://www.jura.uni-bonn.de/fileadmin/Fachbereich_Rechtswissenschaft/Einrichtungen/Institute/Voelkerrecht/AjV_Tagung_2021/AjV-DGIR_Conference_2021_Programme_short.pdf)
