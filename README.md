@@ -1,4 +1,5 @@
 {% seo title=false %}
+<style>body {text-align: justify}</style>
 
 ## Ausbildung
 Seit 2019 [Promotion an der Georg-August-Uni&shy;ver&shy;si&shy;tät Göt&shy;tin&shy;gen bei Prof. Dr. An&shy;dreas Pau&shy;lus](https://uni-goettingen.de/de/428947.html) [05-06/2023 Vis&shy;iting Scholar am [MPI Lux&shy;em&shy;bourg for Pro&shy;ced&shy;ural Law](https://www.mpi.lu/home/) (scho&shy;lar&shy;ship 2023); 07-08/2022 Teil&shy;nah&shy;me an der [Hag&shy;ue Aca&shy;demy of In&shy;ter&shy;natio&shy;nal Law](https://www.hagueacademy.nl) (Sum&shy;mer Cour&shy;ses in Pub&shy;lic and Pri&shy;vate Inter&shy;natio&shy;nal Law)]  
