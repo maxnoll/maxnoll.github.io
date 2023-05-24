@@ -6,15 +6,15 @@ lang: en-US
 ---
 {% seo title=false %}
 ## Education
-Since 2019 [PhD at University of Göttingen with Prof. Dr. Andreas Paulus](https://uni-goettingen.de/en/428947.html) [05-06/2023 Visiting Scholar at the [MPI Luxembourg for Procedural Law](https://www.mpi.lu/home/) (scholarship 2023); 07-08/2022 Participation in the Summer Courses (Public and Private International Law) of the [Hague Academy of International Law](https://www.hagueacademy.nl/); PhD Fellow at the [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/leitbild/)]  
+Since 2019 [PhD at Uni&shy;ver&shy;sity of Göt&shy;ting&shy;en with Prof. Dr. An&shy;dreas Pau&shy;lus](https://uni-goettingen.de/en/428947.html) [05-06/2023 Vi&shy;sit&shy;ing Scholar at the [MPI Luxem&shy;bourg for Pro&shy;cedu&shy;ral Law](https://www.mpi.lu/home/) (scholar&shy;ship 2023); 07-08/2022 Par&shy;tici&shy;pat&shy;ion in the Sum&shy;mer Cour&shy;ses (Pub&shy;lic and Pri&shy;vate Inter&shy;natio&shy;nal Law) of the [Hague Aca&shy;demy of Inter&shy;natio&shy;nal Law](https://www.hagueacademy.nl/); PhD Fel&shy;low at the [Ger&shy;man Aca&shy;demic Scholar&shy;ship Foun&shy;dat&shy;ion](https://www.studienstiftung.de/en/leitbild/)]  
 
-2017-19 Legal Clerkship <i>(Rechtsreferendariat)</i> including training at the German Federal Constitutional Court  
+2017-19 Legal Clerk&shy;ship <i>(Rechtsreferendariat)</i> in&shy;clud&shy;ing trai&shy;ning at the German Fed&shy;eral Const&shy;itutio&shy;nal Court  
 
-2011-16 German First State Exam in Law, Göttingen and Galway    
+2011-16 German First State Exam in Law, Göt&shy;tingen and Gal&shy;way    
 
 ## Research Interests  
-Jurisdiction of States, especially on the internet  
-Data Protection Law, especially its territorial scope
+Juris&shy;diction of States, esp&shy;ecially on the inter&shy;net  
+Data Pro&shy;tect&shy;ion Law, esp&shy;ecially its terri&shy;torial scope
 
 ## Publications
 [Limits to the Juris&shy;diction of Sta&shy;tes in Priv&shy;ate Law Matters under Inter&shy;natio&shy;nal Law, Zeit&shy;schrift für aus&shy;länd&shy;isches öffent&shy;liches Recht und Völker&shy;recht/&shy;Heidel&shy;berg Jour&shy;nal of Inter&shy;nat&shy;ional Law (ZaöRV/&shy;HJIL), 2022 (82), 333-355 (Open Access)](https://www.nomos-elibrary.de/10.17104/0044-2348-2022-2-333/limits-to-the-jurisdiction-of-states-in-private-law-matters-under-international-law-jahrgang-82-2022-heft-2?page=1)  
