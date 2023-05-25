@@ -8,7 +8,9 @@ lang: en-US
 <style>body {text-align: justify}</style>
 ## Education
 Since 2019 [PhD at Uni&shy;ver&shy;sity of Göt&shy;ting&shy;en with Prof. Dr. An&shy;dreas Pau&shy;lus](https://uni-goettingen.de/en/428947.html) [05-06/2023 Vi&shy;sit&shy;ing Scholar at the [MPI Luxem&shy;bourg for Pro&shy;cedu&shy;ral Law](https://www.mpi.lu/home/) (scho&shy;lar&shy;ship 2023); 07-08/2022 Par&shy;tici&shy;pat&shy;ion in the Sum&shy;mer Cour&shy;ses (Pub&shy;lic and Pri&shy;vate Inter&shy;natio&shy;nal Law) of the [Hague Aca&shy;demy of Inter&shy;natio&shy;nal Law](https://www.hagueacademy.nl/); PhD Fel&shy;low at the [Ger&shy;man Aca&shy;demic Scholar&shy;ship Foun&shy;dat&shy;ion](https://www.studienstiftung.de/en/leitbild/)]  
+
 2017-19 Legal Clerk&shy;ship <i>(Rechtsreferendariat)</i> in&shy;clud&shy;ing trai&shy;ning at the German Fed&shy;eral Const&shy;itutio&shy;nal Court  
+
 2011-16 German First State Exam in Law, Göt&shy;tingen and Gal&shy;way    
 
 ## Research Interests  
