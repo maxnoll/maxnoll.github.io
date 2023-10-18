@@ -2,7 +2,7 @@
 <style>body {text-align: justify}</style>
 
 ## Ausbildung
-Seit 2019 [Promotion an der Georg-August-Uni&shy;ver&shy;si&shy;tät Göt&shy;tin&shy;gen bei Prof. Dr. An&shy;dreas Pau&shy;lus](https://uni-goettingen.de/de/428947.html) [05-06/2023 Vis&shy;iting Scholar am [MPI Lux&shy;em&shy;bourg for Pro&shy;ced&shy;ural Law](https://www.mpi.lu/home/) (scho&shy;lar&shy;ship 2023); 07-08/2022 Teil&shy;nah&shy;me an der [Hag&shy;ue Aca&shy;demy of In&shy;ter&shy;natio&shy;nal Law](https://www.hagueacademy.nl) (Sum&shy;mer Cour&shy;ses in Pub&shy;lic and Pri&shy;vate Inter&shy;natio&shy;nal Law)]  
+Seit 2019 [Promotion an der Georg-August-Uni&shy;ver&shy;si&shy;tät Göt&shy;tin&shy;gen bei Prof. Dr. An&shy;dreas Pau&shy;lus](https://uni-goettingen.de/de/428947.html) [10-12/2023 Vis&shy;iting Re&shy;search&shy;er am Lau&shy;ter&shy;pacht Cen&shy;tre for Inter&shy;natio&shy;nal Law der Uni&shy;ver&shy;sity of Cam&shy;brid&shy;ge; 05-06/2023 Vis&shy;iting Scholar am [MPI Lux&shy;em&shy;bourg for Pro&shy;ced&shy;ural Law](https://www.mpi.lu/home/) (scho&shy;lar&shy;ship 2023); 07-08/2022 Teil&shy;nah&shy;me an der [Hag&shy;ue Aca&shy;demy of In&shy;ter&shy;natio&shy;nal Law](https://www.hagueacademy.nl) (Sum&shy;mer Cour&shy;ses in Pub&shy;lic and Pri&shy;vate Inter&shy;natio&shy;nal Law)]  
 
 2017-19 Rechts&shy;ref&shy;eren&shy;dar&shy;iat mit Stat&shy;ion&shy;en in einer BGH-&shy;Kanzlei und am Bundes&shy;verfassungs&shy;gericht  
 
