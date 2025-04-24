@@ -19,7 +19,7 @@ Juris&shy;diction of States, esp&shy;ecially on the inter&shy;net
 Data Pro&shy;tect&shy;ion Law, esp&shy;ecially its terri&shy;torial scope
 
 ## Publications
-Art. 37-40 Dig&shy;ital Mar&shy;kets Act, in: Mast&shy;/Ket&shy;temann/&shy;Drey&shy;er&shy;/Schulz (eds.), Dig&shy;ital Ser&shy;vic&shy;es Act&shy;/Digi&shy;tal Mar&shy;kets Act Kom&shy;men&shy;tar, 2025 Mün&shy;chen: CH Beck (Closed Access: [Print](https://www.beck-shop.de/mast-kettemann-dreyer-schulz-digital-services-act-digital-markets-act-dsa-dma/product/34660327) / [beck-online](https://beck-online.beck.de/Bcid/Y-400-W-MaKeDrScKoDSADMA-G-EU_VO_2022_1925-A-37))  
+Art. 37-40 Dig&shy;ital Mar&shy;kets Act, in: Mast&shy;/Ket&shy;temann/&shy;Drey&shy;er&shy;/Schulz (eds.), Dig&shy;ital Ser&shy;vic&shy;es Act&shy;/Digi&shy;tal Mar&shy;kets Act Kom&shy;men&shy;tar, 2024 Mün&shy;chen: CH Beck (Closed Access: [Print](https://www.beck-shop.de/mast-kettemann-dreyer-schulz-digital-services-act-digital-markets-act-dsa-dma/product/34660327) / [beck-online](https://beck-online.beck.de/Bcid/Y-400-W-MaKeDrScKoDSADMA-G-EU_VO_2022_1925-A-37))  
 
 [Limits to the Juris&shy;diction of Sta&shy;tes in Priv&shy;ate Law Matters under Inter&shy;natio&shy;nal Law, Zeit&shy;schrift für aus&shy;län&shy;di&shy;sches öffent&shy;liches Recht und Völker&shy;recht/&shy;Heidel&shy;berg Jour&shy;nal of Inter&shy;nat&shy;ional Law (ZaöRV/&shy;HJIL), 2022 (82), 333-355 (Open Access)](https://www.nomos-elibrary.de/10.17104/0044-2348-2022-2-333/limits-to-the-jurisdiction-of-states-in-private-law-matters-under-international-law-jahrgang-82-2022-heft-2?page=1)  
 
