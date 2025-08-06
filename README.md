@@ -2,7 +2,7 @@
 <style>body {text-align: justify}</style>
 
 ## Werdegang
-Ab 10/2025 Wis&shy;sen&shy;schaft&shy;lich&shy;er Mit&shy;arb&shy;eit&shy;er am Max-&shy;Planck-&shy;Inst&shy;itut für aus&shy;länd&shy;isches öffent&shy;lich&shy;es Recht und Völ&shy;ker&shy;recht  
+Ab 10/2025 Wis&shy;sen&shy;schaft&shy;lich&shy;er Mit&shy;arb&shy;eit&shy;er am Max-&shy;Planck-&shy;Inst&shy;itut für aus&shy;länd&shy;isches öffent&shy;lich&shy;es Recht und Völ&shy;ker&shy;recht in Hei&shy;del&shy;berg  
 
 05-09/2025 Wis&shy;sen&shy;schaft&shy;lich&shy;er Mit&shy;arb&shy;eit&shy;er am Mar&shy;sil&shy;ius-&shy;Kol&shy;leg der Uni&shy;ver&shy;si&shy;tät Hei&shy;del&shy;berg und aff&shy;il&shy;iiert am Max-&shy;Planck-&shy;Inst&shy;itut für aus&shy;länd&shy;isches öffent&shy;lich&shy;es Recht und Völ&shy;ker&shy;recht  
 
