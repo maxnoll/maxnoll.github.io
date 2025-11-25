@@ -1,3 +1,3 @@
 <script>
-window.location.replace("http://www.w3schools.com");
+window.location.replace("https://www.mpil.de/en/pub/institute/personnel/academic-staff/mnoll.cfm");
 </script>
